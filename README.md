@@ -1,8 +1,11 @@
-                    👋 Hi, I’m Gouri Paritala 
-                   
-- 👀 I’m interested in UI/UX design and web development.
-- 🌱 I’m currently learning web development.
-- 📫 How to reach me: paritalagouri2@gmail.com
+👋 Hi, I’m Gouri Paritala 
+<br>
+CSE student studying at VIT vellore.                 
+  - 👀 I’m interested in UI/UX design and web development.
+  - 🌱 I’m currently learning web development.<br>  I am a beginner in UI/UX DESIGN.
+  - 📫 How to reach me: paritalagouri2@gmail.com
+
+
 
 <!---
 Gouri-19/Gouri-19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
