@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Gouri Paritala 
+                    👋 Hi, I’m Gouri Paritala 
+                   
 - 👀 I’m interested in UI/UX design and web development.
 - 🌱 I’m currently learning web development.
 - 📫 How to reach me: paritalagouri2@gmail.com
