@@ -2,7 +2,7 @@
 <br>
 CSE student studying at VIT vellore.                 
   - 👀 I’m interested in UI/UX design and web development.
-  - 🌱 I’m currently learning web development.<br>  I am a beginner in UI/UX DESIGN.
+  - 🌱 I’m currently learning web development.
   - 📫 How to reach me: paritalagouri2@gmail.com
 
 
