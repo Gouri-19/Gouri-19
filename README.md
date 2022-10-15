@@ -1,8 +1,7 @@
 👋 Hi, I’m Gouri Paritala 
 <br>
 CSE student studying at VIT vellore.                 
-  - 👀 I’m interested in UI/UX design and web development.
-  - 🌱 I’m currently learning web development.
+  - 👀 keen interest in Data Science, Machine Learning and UI/UX Designing.
   - 📫 How to reach me: paritalagouri2@gmail.com
 
 
